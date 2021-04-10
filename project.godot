@@ -18,6 +18,10 @@ _global_script_class_icons={
 config/name="open-tycoon"
 config/icon="res://icon.png"
 
+[editor_plugins]
+
+enabled=PoolStringArray( "node25d" )
+
 [rendering]
 
 quality/driver/driver_name="GLES2"
